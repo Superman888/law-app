@@ -1,0 +1,162 @@
+{
+	"fast.html": {
+		"resources": [
+			"modules/html/fast/fast.css",
+			"penal.html",
+			"index.html"
+		],
+		"refer": [
+			"penal.html",
+			"index.html"
+		]
+	},
+	"index.html": {
+		"resources": [
+			"fast.html",
+			"lib/mod.js",
+			"modules/html/index/index.css",
+			"modules/css/common.css",
+			"modules/fonts/iconfont.woff",
+			"banner.html",
+			"forum.html",
+			"point.html",
+			"sort.html",
+			"js/common.js",
+			"js/immersed.js"
+		],
+		"refer": [
+			"fast.html",
+			"banner.html",
+			"forum.html",
+			"point.html",
+			"sort.html",
+			"html/barcode_scan.html"
+		]
+	},
+	"penal.html": {
+		"resources": [
+			"fast.html",
+			"modules/html/penal/penal.css",
+			"point.html",
+			"pkg/images/f6.jpg"
+		],
+		"refer": [
+			"fast.html",
+			"point.html"
+		]
+	},
+	"banner.html": {
+		"resources": [
+			"modules/html/banner/swiper-3.4.2.min.css",
+			"pkg/images/bg1.png",
+			"pkg/images/bg3.png",
+			"modules/html/banner/banner.css",
+			"pkg/images/bg2.png",
+			"index.html",
+			"pkg/banner.html_map.js",
+			"modules/js/jquery.js",
+			"modules/js/swiper.js",
+			"modules/js/main.js",
+			"lib/mod.js",
+			"modules/css/common.css"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"forum.html": {
+		"resources": [
+			"modules/html/forum/forum.css",
+			"index.html",
+			"question.html"
+		],
+		"refer": [
+			"index.html",
+			"question.html"
+		]
+	},
+	"point.html": {
+		"resources": [
+			"index.html",
+			"xiaoxin.html",
+			"modules/html/point/point.css",
+			"lib/mod.js",
+			"pkg/images/lala1.jpg",
+			"pkg/images/lala2.jpg",
+			"pkg/images/lala.jpg",
+			"modules/css/common.css",
+			"modules/fonts/iconfont.woff",
+			"penal.html"
+		],
+		"refer": [
+			"index.html",
+			"xiaoxin.html",
+			"penal.html"
+		]
+	},
+	"sort.html": {
+		"resources": [
+			"index.html",
+			"modules/html/sort/sort.css",
+			"criminal.html"
+		],
+		"refer": [
+			"index.html",
+			"criminal.html"
+		]
+	},
+	"criminal.html": {
+		"resources": [
+			"sort.html",
+			"modules/html/criminal/criminal.css",
+			"details.html"
+		],
+		"refer": [
+			"sort.html",
+			"details.html"
+		]
+	},
+	"xiaoxin.html": {
+		"resources": [
+			"modules/html/xiaoxin/xiaoxin.css",
+			"end.html",
+			"point.html",
+			"lib/mod.js",
+			"pkg/images/lala.jpg",
+			"modules/css/common.css",
+			"modules/fonts/iconfont.woff"
+		],
+		"refer": [
+			"end.html",
+			"point.html"
+		]
+	},
+	"end.html": {
+		"resources": [
+			"pkg/images/lala.jpg",
+			"modules/html/end/end.css",
+			"banner.html"
+		],
+		"refer": [
+			"banner.html"
+		]
+	},
+	"question.html": {
+		"resources": [
+			"forum.html",
+			"modules/html/question/question.css"
+		],
+		"refer": [
+			"forum.html"
+		]
+	},
+	"details.html": {
+		"resources": [
+			"modules/html/details/details.css",
+			"criminal.html"
+		],
+		"refer": [
+			"criminal.html"
+		]
+	}
+}

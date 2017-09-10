@@ -1,0 +1,72 @@
+body {
+  background: #f8f8f8;
+}
+
+.content {
+  width: 100%;
+  background: #fff;
+}
+
+.content li {
+  padding: 25px 12px 0 12px;
+}
+
+.content li .border1px {
+  position: relative;
+}
+
+.content li .border1px:after {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 1px;
+  background: #ddd;
+  content: '';
+}
+
+.content li .border1px a {
+  padding-bottom: 25px;
+  display: block;
+}
+
+.content li .border1px a:last-child:after {
+  display: none;
+}
+
+.content li .border1px a .all-spa {
+  padding-left: 40px;
+  margin-left: 12px;
+  margin-right: 26px;
+}
+
+.content li .border1px a .all-spa .spa1 {
+  font-size: 18px;
+}
+
+.content li .border1px a h2 {
+  position: absolute;
+  right: 12px;
+  top: -8px;
+}
+
+.content li .border1px a .iconfont {
+  font-size: 33px;
+  margin-left: 12px;
+}
+
+.content li .border1px a .icon1 {
+  color: #f18c48;
+}
+
+.content li .border1px a .icon2 {
+  color: #9aee46;
+}
+
+.content li .border1px a .icon3 {
+  color: #eb5748;
+}
+
+.content li .border1px a .icon4 {
+  color: #49b4f1;
+}

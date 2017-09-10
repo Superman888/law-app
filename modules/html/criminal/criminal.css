@@ -1,0 +1,20 @@
+.content {
+  height: 100vh;
+  overflow: hidden;
+  background-color: #f8f8f8;
+}
+
+.content li {
+  margin-top: 10px;
+  background-color: #fff;
+}
+
+.content li a {
+  padding: 0 12px;
+  display: block;
+}
+
+.content li span {
+  line-height: 44px;
+  font-size: 15px;
+}

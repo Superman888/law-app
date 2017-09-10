@@ -1,0 +1,103 @@
+.message {
+  padding: 18px 12px;
+}
+
+.message .head {
+  height: 80px;
+  width: 80px;
+}
+
+.message .head img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.message .mess {
+  margin-left: 17px;
+}
+
+.message .mess .five {
+  padding: 2px 5px;
+  border-radius: 6px;
+  margin-left: 10px;
+  color: #ffffff;
+  background: #ef4630;
+}
+
+.message .mess .long {
+  margin: 7px 0;
+  padding: 5px 0;
+}
+
+.message .mess .long .oran {
+  color: #ea7e15;
+  padding: 5px 5px;
+  border: 1px solid #ea7e15;
+}
+
+.message .mess p {
+  line-height: 30px;
+}
+
+.introduce {
+  overflow: hidden;
+  background: #f7f7f7;
+}
+
+.introduce .good {
+  padding: 10px 0;
+  margin: 10px 0;
+  background: #ffffff;
+}
+
+.introduce .good li {
+  float: left;
+  width: 33%;
+  text-align: center;
+  border-right: 1px solid #ddd;
+}
+
+.introduce .good li:nth-child(3) {
+  border: none;
+}
+
+.introduce .good li span {
+  color: #e53f1f;
+}
+
+.introduce .expertise {
+  padding: 10px 12px;
+  margin-bottom: 10px;
+  background: #ffffff;
+}
+
+.introduce .expertise span {
+  display: block;
+  line-height: 25px;
+  text-align: center;
+  color: #e9821c;
+}
+
+.introduce .expertise p {
+  padding: 0 15px;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+.introduce .expertise a {
+  display: block;
+  line-height: 25px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.introduce .start {
+  display: block;
+  width: 90%;
+  line-height: 43px;
+  margin: 43px auto;
+  border-radius: 5px;
+  text-align: center;
+  color: #ffffff;
+  background: #3A5FD2;
+}

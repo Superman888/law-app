@@ -1,0 +1,132 @@
+.question {
+  padding: 12px 25px 0 25px;
+  border-bottom: 1px solid #ddd;
+}
+
+.question .questions {
+  padding-bottom: 12px;
+  border-bottom: 1px dashed #ddd;
+}
+
+.question .questions .num-img span {
+  display: inline-block;
+}
+
+.question .questions .num-img .imgs {
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  border-radius: 50%;
+  font-size: 15px;
+  text-align: center;
+  color: #fff;
+  background-color: #3a5fd2;
+}
+
+.question .questions .num-img .num {
+  color: #7e96e0;
+}
+
+.question .questions .ask {
+  margin-top: 10px;
+  line-height: 20px;
+}
+
+.question .questions .ask p {
+  margin-top: 7px;
+  line-height: 16px;
+  color: #7b7b7b;
+}
+
+.question .questions .text {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 3px  14px;
+  line-height: 20px;
+  border-radius: 10px;
+  color: #ee9844;
+  border: 1px solid #ee9844;
+}
+
+.question .second span {
+  line-height: 38px;
+  color: #7b7b7b;
+}
+
+.question .second span i {
+  font-size: 14px;
+  margin-right: 2px;
+}
+
+.question .second .spa1 {
+  margin-left: 12px;
+}
+
+.question .second .spa2 {
+  margin-left: 25px;
+}
+
+.answer {
+  padding: 12px 25px 0 25px;
+}
+
+.answer .num-img span {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.answer .num-img .imgs {
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.answer .num-img .imgs img {
+  width: 100%;
+}
+
+.answer .num-img .name {
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+.answer .num-img .heart {
+  padding: 5px 8px;
+  font-size: 13px;
+  border-radius: 2px;
+  color: #fff;
+  background-color: #ef4630;
+}
+
+.answer p {
+  margin-top: 7px;
+  padding-bottom: 13px;
+  line-height: 20px;
+  color: #7b7b7b;
+  border-bottom: 1px dashed #ddd;
+}
+
+.answer p a {
+  color: #ee9844;
+}
+
+.answer .second span {
+  line-height: 38px;
+  color: #7b7b7b;
+}
+
+.answer .second span i {
+  font-size: 14px;
+  margin-right: 2px;
+}
+
+.answer .second .spa1 {
+  margin-left: 12px;
+}
+
+.answer .second .spa2 {
+  margin-left: 25px;
+}

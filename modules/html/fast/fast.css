@@ -1,0 +1,173 @@
+.search {
+  background: #3A5FD2;
+}
+
+.search .content {
+  padding: 24px 12px;
+  position: relative;
+}
+
+.search .content .txt {
+  background: #ffffff;
+  border-radius: 4px;
+}
+
+.search .content .txt input {
+  padding: 12px;
+  margin-left: 10px;
+  width: 80%;
+  border: none;
+  outline: none;
+}
+
+.search .content i {
+  color: #000;
+  position: absolute;
+  right: 20px;
+  top: 35px;
+}
+
+.search .content .hot {
+  line-height: 36px;
+}
+
+.search .content .hot span {
+  color: #ffffff;
+  float: left;
+  font-size: 13px;
+  margin-left: 24px;
+}
+
+.search .content .hot li {
+  float: left;
+  padding: 0 11px;
+}
+
+.search .content .hot li a {
+  border-bottom: 1px solid #fff;
+  color: #ffffff;
+  font-size: 13px;
+}
+
+.servers {
+  padding: 0 2px 30px;
+  background: #ffffff;
+}
+
+.servers ul {
+  min-width: 300px;
+}
+
+.servers ul li {
+  box-sizing: border-box;
+  float: left;
+  margin-top: 15px;
+  padding: 0 10px;
+  width: 33.33%;
+  text-align: center;
+}
+
+.servers a {
+  padding: 10px 0;
+  background: #f8f8f8;
+  display: block;
+}
+
+.servers .bg {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #3fafee;
+}
+
+.servers .bg i {
+  color: #ffffff;
+  font-size: 30px;
+  line-height: 50px;
+}
+
+.servers span {
+  display: block;
+  margin-top: 9px;
+}
+
+.servers .type2 {
+  background: #ef6189;
+}
+
+.servers .type3 {
+  background: #ffa11a;
+}
+
+.servers .type4 {
+  background: #b8ed64;
+}
+
+.servers .type5 {
+  background: #3ad4cb;
+}
+
+.servers .type6 {
+  background: #ff6363;
+}
+
+.servers .type7 {
+  background: #d570f2;
+}
+
+.servers .type8 {
+  background: #f5dc68;
+}
+
+.servers .type9 {
+  background: #55e27d;
+}
+
+.servers .type10 {
+  background: #ffa11a;
+}
+
+.servers .type11 {
+  background: #3fafee;
+}
+
+.servers .type12 {
+  background: #ef6189;
+}
+
+.servers .type13 {
+  background: #b8ed64;
+}
+
+.servers .type14 {
+  background: #3ad4cb;
+}
+
+.servers .type15 {
+  background: #f5dc68;
+}
+
+.servers .type16 {
+  background: #55e27d;
+}
+
+.servers .type17 {
+  background: #d570f2;
+}
+
+.servers .type18 {
+  background: #ff6363;
+}
+
+.servers .type19 {
+  background: #ffa11a;
+}
+
+.servers .type20 {
+  background: #ef6189;
+}
+
+.servers .type21 {
+  background: #3fafee;
+}

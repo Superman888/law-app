@@ -1,0 +1,123 @@
+.case {
+  padding: 15px 12px;
+  border-bottom: 1px solid #ddd;
+}
+
+.case .title {
+  line-height: 25px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.case .title i {
+  font-size: 15px;
+  color: #3d62d1;
+}
+
+.case .content {
+  line-height: 25px;
+  font-size: 14px;
+  text-indent: 2em;
+}
+
+.case .time span {
+  display: inline-block;
+  line-height: 25px;
+  font-size: 10px;
+  color: #b0b0b0;
+}
+
+.case .time span i {
+  margin-right: 7px;
+  font-size: 10px;
+}
+
+.case .time .spa1 {
+  margin-left: 18px;
+}
+
+.explain {
+  background-color: #f8f8f8;
+  padding: 0 12px 20px 12px;
+}
+
+.explain .explain-content {
+  display: flex;
+  padding: 7px 0 12px 0;
+  border-bottom: 1px solid #aaa;
+}
+
+.explain .explain-content .pic {
+  flex: 0 0 40px;
+  border-radius: 50%;
+}
+
+.explain .explain-content .pic img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.explain .explain-content .content {
+  flex: 1;
+}
+
+.explain .explain-content .content span {
+  line-height: 25px;
+}
+
+.explain .explain-content .content .pull-left {
+  font-size: 15px;
+  text-indent: 13px;
+  font-weight: bold;
+}
+
+.explain .explain-content .content .pull-right {
+  color: #bababa;
+}
+
+.explain .explain-content .content p {
+  font-size: 12px;
+  line-height: 20px;
+  text-indent: 5px;
+  letter-spacing: 1px;
+}
+
+.explain .explain-content .content p i {
+  font-size: 15px;
+  color: #ea7e15;
+}
+
+.explain .explain-content .content .end {
+  margin-top: 10px;
+}
+
+.explain .explain-content .content .end .good {
+  display: inline-block;
+  padding: 8px;
+  border-radius: 2px;
+  color: #fff;
+  line-height: 24px;
+  background-color: #5cc79e;
+}
+
+.explain .explain-content .content .end .good i {
+  margin-right: 5px;
+  line-height: 15px;
+  color: #fff;
+}
+
+.explain .explain-content .content .end .pull-right {
+  display: inline-block;
+  line-height: 40px;
+  font-size: 10px;
+  color: #b0b0b0;
+}
+
+.explain .explain-content .content .end .pull-right i {
+  margin-right: 7px;
+  font-size: 10px;
+}
+
+.explain .explain-content .content .end .spa1 {
+  margin-left: 18px;
+}
